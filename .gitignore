@@ -1,0 +1,3 @@
+venv/
+moovies/*.mp4
+*.json
